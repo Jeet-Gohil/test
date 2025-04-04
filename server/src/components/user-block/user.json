@@ -1,0 +1,19 @@
+{
+  "collectionName": "components_user_block_users",
+  "info": {
+    "displayName": "user"
+  },
+  "options": {},
+  "attributes": {
+    "name": {
+      "type": "string"
+    },
+    "image": {
+      "allowedTypes": [
+        "images"
+      ],
+      "type": "media",
+      "multiple": false
+    }
+  }
+}
